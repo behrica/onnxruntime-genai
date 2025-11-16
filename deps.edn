@@ -1,0 +1,3 @@
+{
+ :deps {onnx.runtime.ai {:local/root "build/Linux/Release/src/java/build/libs/onnxruntime-genai-0.12.0-SNAPSHOT.jar"}}
+ :path ["src/clojure"]}
